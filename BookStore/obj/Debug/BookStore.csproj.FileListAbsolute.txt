@@ -1,0 +1,12 @@
+C:\Users\Huawei\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Huawei\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Huawei\source\repos\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Huawei\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\BookStore\BookStore\obj\Debug\BookStore.BookStoreMainForm.resources
+C:\Users\Huawei\source\repos\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Huawei\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\Huawei\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\Huawei\source\repos\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Huawei\source\repos\BookStore\BookStore\obj\Debug\BookStore.exe.config
+C:\Users\Huawei\source\repos\BookStore\BookStore\obj\Debug\BookStore.AddMineBookForm.resources
