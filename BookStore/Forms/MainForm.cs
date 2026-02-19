@@ -25,7 +25,9 @@ namespace BookStore
 
         private void LoadDataFromFiles()
         {
-            string[] authorLines = File.ReadAllLines("Authors.txt");
+            var baseDir = AppDomain.CurrentDomain.BaseDirectory;
+            var filesDir = Path.Combine(baseDir, "Files");
+            string[] authorLines = File.ReadAllLines(Path.Combine(baseDir, "Files/Authors.txt"));
             foreach (string line in authorLines)
             {
                 string[] parts = line.Split('.');
@@ -35,7 +37,7 @@ namespace BookStore
                 }
             }
 
-            string[] genreLines = File.ReadAllLines("Genres.txt");
+            string[] genreLines = File.ReadAllLines(Path.Combine(baseDir, "Files/Genres.txt"));
             foreach (string line in genreLines)
             {
                 string[] parts = line.Split('.');
@@ -45,7 +47,7 @@ namespace BookStore
                 }
             }
 
-            string[] bookLines = File.ReadAllLines("Books.txt");
+            string[] bookLines = File.ReadAllLines(Path.Combine(baseDir, "Files/Books.txt"));
             foreach (string line in bookLines)
             {
                 string[] parts = line.Split(',');
